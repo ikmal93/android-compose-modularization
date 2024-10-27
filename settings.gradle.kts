@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "android-compose-modularization"
 include(":app")
- 
